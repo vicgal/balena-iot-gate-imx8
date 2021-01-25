@@ -1,0 +1,48 @@
+[submodule "balena-yocto-scripts"]
+	path = balena-yocto-scripts
+	url = https://github.com/balena-os/balena-yocto-scripts.git
+[submodule "layers/meta-rust"]
+	path = layers/meta-rust
+	url = https://github.com/meta-rust/meta-rust.git
+[submodule "layers/meta-balena"]
+	path = layers/meta-balena
+	url = https://github.com/balena-os/meta-balena.git
+[submodule "layers/meta-freescale"]
+	path = layers/meta-freescale
+	url = https://github.com/Freescale/meta-freescale.git
+[submodule "layers/meta-freescale-3rdparty"]
+	path = layers/meta-freescale-3rdparty
+	url = https://github.com/Freescale/meta-freescale-3rdparty.git
+[submodule "layers/meta-freescale-distro"]
+	path = layers/meta-freescale-distro
+	url = https://github.com/Freescale/meta-freescale-distro.git
+[submodule "layers/meta-bsp-imx8mm"]
+	path = layers/meta-bsp-imx8mm
+	url = https://github.com/compulab-yokneam/meta-bsp-imx8mm.git
+[submodule "layers/meta-imx"]
+	path = layers/meta-imx
+	url = https://source.codeaurora.org/external/imx/meta-imx
+[submodule "layers/meta-openembedded"]
+	path = layers/meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded.git
+[submodule "layers/meta-python2"]
+	path = layers/meta-python2
+	url = https://git.openembedded.org/meta-python2
+[submodule "layers/meta-qt5"]
+	path = layers/meta-qt5
+	url = https://github.com/meta-qt5/meta-qt5.git
+[submodule "layers/meta-timesys"]
+	path = layers/meta-timesys
+	url = https://github.com/TimesysGit/meta-timesys.git
+[submodule "layers/meta-browser"]
+	path = layers/meta-browser
+	url = https://github.com/OSSystems/meta-browser.git
+[submodule "layers/meta-compulab"]
+	path = layers/meta-compulab
+	url = https://github.com/compulab-yokneam/meta-compulab.git
+[submodule "layers/meta-compulab-bsp"]
+	path = layers/meta-compulab-bsp
+	url = https://github.com/compulab-yokneam/meta-compulab-bsp.git
+[submodule "layers/poky"]
+	path = layers/poky
+	url = https://github.com/balena-os/poky
