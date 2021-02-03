@@ -22,3 +22,6 @@
 [submodule "meta-imx"]
 	path = meta-imx
 	url = ./layers/meta-imx/
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = ./layers/meta-openembedded/
