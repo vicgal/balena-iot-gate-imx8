@@ -25,3 +25,6 @@
 [submodule "meta-openembedded"]
 	path = meta-openembedded
 	url = ./layers/meta-openembedded/
+[submodule "meta-python2"]
+	path = meta-python2
+	url = ./layers/meta-python2/
