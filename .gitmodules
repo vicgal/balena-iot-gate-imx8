@@ -37,3 +37,6 @@
 [submodule "meta-browser"]
 	path = meta-browser
 	url = ./layers/meta-browser/
+[submodule "meta-timesys"]
+	path = meta-timesys
+	url = ./layers/meta-timesys/
