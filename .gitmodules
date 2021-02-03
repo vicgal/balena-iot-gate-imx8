@@ -1,0 +1,3 @@
+[submodule "meta-balena"]
+	path = meta-balena
+	url = ./layers/meta-balena
