@@ -31,3 +31,6 @@
 [submodule "meta-qt5"]
 	path = meta-qt5
 	url = ./layers/meta-qt5/
+[submodule "meta-rust"]
+	path = meta-rust
+	url = ./layers/meta-rust/
