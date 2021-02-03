@@ -16,3 +16,6 @@
 [submodule "meta-freescale-3rdparty"]
 	path = meta-freescale-3rdparty
 	url = ./layers/meta-freescale-3rdparty/
+[submodule "meta-freescale-distro"]
+	path = meta-freescale-distro
+	url = ./layers/meta-freescale-distro/
