@@ -4,3 +4,6 @@
 [submodule "meta-bsp-imx8mm"]
 	path = meta-bsp-imx8mm
 	url = ./layers/meta-bsp-imx8mm/
+[submodule "meta-compulab"]
+	path = meta-compulab
+	url = ./layers/meta-compulab
