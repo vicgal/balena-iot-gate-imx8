@@ -28,3 +28,6 @@
 [submodule "meta-python2"]
 	path = meta-python2
 	url = ./layers/meta-python2/
+[submodule "meta-qt5"]
+	path = meta-qt5
+	url = ./layers/meta-qt5/
