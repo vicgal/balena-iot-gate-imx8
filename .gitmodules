@@ -1,45 +1,45 @@
 [submodule "meta-balena"]
 	path = meta-balena
-	url = ./layers/meta-balena
+	url = https://github.com/balena-os/meta-balena.git
 [submodule "meta-bsp-imx8mm"]
 	path = meta-bsp-imx8mm
-	url = ./layers/meta-bsp-imx8mm/
+	url = https://github.com/compulab-yokneam/meta-bsp-imx8mm.git
 [submodule "meta-compulab"]
 	path = meta-compulab
-	url = ./layers/meta-compulab
+	url = https://github.com/compulab-yokneam/meta-compulab.git
 [submodule "meta-compulab-bsp"]
 	path = meta-compulab-bsp
-	url = ./layers/meta-compulab-bsp/
+	url =  https://github.com/compulab-yokneam/meta-compulab-bsp.git
 [submodule "meta-freescale"]
 	path = meta-freescale
-	url = ./layers/meta-freescale
+	url = https://github.com/Freescale/meta-freescale.git
 [submodule "meta-freescale-3rdparty"]
 	path = meta-freescale-3rdparty
-	url = ./layers/meta-freescale-3rdparty/
+	url = https://github.com/Freescale/meta-freescale-3rdparty.git
 [submodule "meta-freescale-distro"]
 	path = meta-freescale-distro
-	url = ./layers/meta-freescale-distro/
+	url = https://github.com/Freescale/meta-freescale-distro.git
 [submodule "meta-imx"]
 	path = meta-imx
-	url = ./layers/meta-imx/
+	url = https://source.codeaurora.org/external/imx/meta-imx
 [submodule "meta-openembedded"]
 	path = meta-openembedded
-	url = ./layers/meta-openembedded/
+	url =  https://github.com/openembedded/meta-openembedded.git
 [submodule "meta-python2"]
 	path = meta-python2
-	url = ./layers/meta-python2/
+	url = https://git.openembedded.org/meta-python2
 [submodule "meta-qt5"]
 	path = meta-qt5
-	url = ./layers/meta-qt5/
+	url = https://github.com/meta-qt5/meta-qt5.git
 [submodule "meta-rust"]
 	path = meta-rust
-	url = ./layers/meta-rust/
+	url = https://github.com/meta-rust/meta-rust.git
 [submodule "meta-browser"]
 	path = meta-browser
-	url = ./layers/meta-browser/
+	url = https://github.com/OSSystems/meta-browser.git
 [submodule "meta-timesys"]
 	path = meta-timesys
-	url = ./layers/meta-timesys/
+	url = https://github.com/TimesysGit/meta-timesys.git
 [submodule "poky"]
 	path = poky
-	url = ./layers/poky/
+	url = https://github.com/balena-os/poky
