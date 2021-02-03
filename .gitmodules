@@ -40,3 +40,6 @@
 [submodule "meta-timesys"]
 	path = meta-timesys
 	url = ./layers/meta-timesys/
+[submodule "poky"]
+	path = poky
+	url = ./layers/poky/
