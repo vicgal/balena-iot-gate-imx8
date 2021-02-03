@@ -34,3 +34,6 @@
 [submodule "meta-rust"]
 	path = meta-rust
 	url = ./layers/meta-rust/
+[submodule "meta-browser"]
+	path = meta-browser
+	url = ./layers/meta-browser/
