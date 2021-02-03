@@ -1,3 +1,6 @@
 [submodule "meta-balena"]
 	path = meta-balena
 	url = ./layers/meta-balena
+[submodule "meta-bsp-imx8mm"]
+	path = meta-bsp-imx8mm
+	url = ./layers/meta-bsp-imx8mm/
