@@ -7,3 +7,6 @@
 [submodule "meta-compulab"]
 	path = meta-compulab
 	url = ./layers/meta-compulab
+[submodule "meta-compulab-bsp"]
+	path = meta-compulab-bsp
+	url = ./layers/meta-compulab-bsp/
