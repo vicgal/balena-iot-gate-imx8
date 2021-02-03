@@ -10,3 +10,6 @@
 [submodule "meta-compulab-bsp"]
 	path = meta-compulab-bsp
 	url = ./layers/meta-compulab-bsp/
+[submodule "meta-freescale"]
+	path = meta-freescale
+	url = ./layers/meta-freescale
