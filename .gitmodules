@@ -19,3 +19,6 @@
 [submodule "layers/meta-compulab-bsp"]
 	path = layers/meta-compulab-bsp
 	url = https://github.com/compulab-yokneam/meta-compulab-bsp.git
+[submodule "layers/meta-imx"]
+	path = layers/meta-imx
+	url = https://source.codeaurora.org/external/imx/meta-imx
