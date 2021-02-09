@@ -13,3 +13,6 @@
 [submodule "layers/meta-freescale-3rdparty"]
 	path = layers/meta-freescale-3rdparty
 	url = https://github.com/Freescale/meta-freescale-3rdparty.git
+[submodule "layers/meta-compulab"]
+	path = layers/meta-compulab
+	url = https://github.com/compulab-yokneam/meta-compulab.git
