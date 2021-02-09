@@ -25,3 +25,6 @@
 [submodule "layers/meta-python2"]
 	path = layers/meta-python2
 	url = https://git.openembedded.org/meta-python2
+[submodule "layers/meta-openembedded"]
+	path = layers/meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded.git
