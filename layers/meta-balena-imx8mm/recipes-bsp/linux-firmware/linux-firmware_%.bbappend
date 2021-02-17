@@ -73,3 +73,15 @@ LIC_FILES_CHKSUM = " \
 LIC_FILES_CHKSUM += " \
         file://WHENCE;md5=5cb5f2792b385b4dd165b35d312141ec \
 "
+
+
+FILES_${PN}-ax200 += " \
+       ${nonarch_base_libdir}/firmware/iwlwifi-cc-a0-50.ucode \
+       ${nonarch_base_libdir}/firmware/iwlwifi-cc-a0-48.ucode \
+       ${nonarch_base_libdir}/firmware/iwlwifi-cc-a0-46.ucode \
+       ${nonarch_base_libdir}/firmware/intel/ibt-20-1-3.ddc \
+       ${nonarch_base_libdir}/firmware/intel/ibt-20-1-3.sfi \
+"
+
+PACKAGES =+ " ${PN}-ax200 "
+PROVIDES =+ " ${PN}-ax200 "
